@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Truc Nguyen</h1>
 <h3 align="center">.NET Developer</h3>
 
-> 📫 How to reach me **truc.nguyentrung@hotmail.com**
+## 📫 How to reach me **truc.nguyentrung@hotmail.com**
 
-> ⚡ Fun fact **Love cooking and sport (badminton, volleyball)**
+## ⚡ Fun fact **Love cooking and sport (badminton, volleyball)**
 
 
 <h3 align="left">Favourite Languages and Tools:</h3>
