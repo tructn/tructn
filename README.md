@@ -6,7 +6,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trucng)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=trucng&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![Truc's GitHub stats](https://github-readme-stats.vercel.app/api?username=trucng&show_icons=true&theme=tokyonight)
-
